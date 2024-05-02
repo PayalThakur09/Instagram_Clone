@@ -42,7 +42,7 @@ const itemData = [
     {
         img: 'https://i.pinimg.com/736x/62/cd/84/62cd84f2b3895c8c8d8cef29067c603e.jpg',
         title: 'Bear',
-    },
+    },  
     {
         img: 'https://i.pinimg.com/736x/c0/3f/f3/c03ff3662abc5fecd25563b536119ef5.jpg',
         title: 'Masha',
